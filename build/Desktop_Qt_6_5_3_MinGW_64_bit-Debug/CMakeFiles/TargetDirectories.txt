@@ -1,0 +1,15 @@
+C:/Users/32415/Downloads/QtLanWebSocket_Qt6.5.3_Project/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/appQtLanWebSocket.dir
+C:/Users/32415/Downloads/QtLanWebSocket_Qt6.5.3_Project/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/appQtLanWebSocket_qmltyperegistration.dir
+C:/Users/32415/Downloads/QtLanWebSocket_Qt6.5.3_Project/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/all_qmltyperegistrations.dir
+C:/Users/32415/Downloads/QtLanWebSocket_Qt6.5.3_Project/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/appQtLanWebSocket_qmllint.dir
+C:/Users/32415/Downloads/QtLanWebSocket_Qt6.5.3_Project/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/appQtLanWebSocket_qmllint_json.dir
+C:/Users/32415/Downloads/QtLanWebSocket_Qt6.5.3_Project/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/appQtLanWebSocket_qmllint_module.dir
+C:/Users/32415/Downloads/QtLanWebSocket_Qt6.5.3_Project/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/all_qmllint.dir
+C:/Users/32415/Downloads/QtLanWebSocket_Qt6.5.3_Project/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/all_qmllint_json.dir
+C:/Users/32415/Downloads/QtLanWebSocket_Qt6.5.3_Project/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/all_qmllint_module.dir
+C:/Users/32415/Downloads/QtLanWebSocket_Qt6.5.3_Project/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/appQtLanWebSocket_tooling.dir
+C:/Users/32415/Downloads/QtLanWebSocket_Qt6.5.3_Project/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/appQtLanWebSocket_qmlimportscan.dir
+C:/Users/32415/Downloads/QtLanWebSocket_Qt6.5.3_Project/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/32415/Downloads/QtLanWebSocket_Qt6.5.3_Project/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/32415/Downloads/QtLanWebSocket_Qt6.5.3_Project/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/appQtLanWebSocket_autogen_timestamp_deps.dir
+C:/Users/32415/Downloads/QtLanWebSocket_Qt6.5.3_Project/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/appQtLanWebSocket_autogen.dir

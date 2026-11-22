@@ -1,0 +1,5 @@
+module QtLanWebSocket
+typeinfo appQtLanWebSocket.qmltypes
+prefer :/QtLanWebSocket/
+Main 1.0 Main.qml
+

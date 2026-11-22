@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1">
+  <title>Qt 局域网通信</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <main class="app">
+    <header><div class="logo">LAN</div><div><h1>局域网通信</h1><p>Qt WebSocket 客户端</p></div></header>
+    <section class="panel">
+      <div class="row"><span>连接状态</span><strong id="status" class="offline">未连接</strong></div>
+      <label for="server">服务器地址</label>
+      <input id="server" autocomplete="url" placeholder="例如 192.168.2.243">
+      <div class="actions">
+        <button id="connect">连接服务器</button>
+        <button id="disconnect" class="secondary" disabled>断开连接</button>
+      </div>
+      <p class="hint">默认使用当前网页所在电脑的 IP，WebSocket 端口为 8888。</p>
+    </section>
+    <section class="panel">
+      <label for="message">发送消息</label>
+      <textarea id="message" rows="3" placeholder="输入要发送的内容"></textarea>
+      <button id="send" disabled>发送</button>
+    </section>
+    <section class="panel log-panel">
+      <div class="row"><h2>通信记录</h2><button id="clear" class="text-button">清空</button></div>
+      <div id="log" aria-live="polite"><p class="empty">连接后将在这里显示收发消息。</p></div>
+    </section>
+    <footer>设备必须与 Windows 服务端处于同一个可互通的局域网。</footer>
+  </main>
+  <script src="/app.js"></script>
+</body>
+</html>
